@@ -26,7 +26,6 @@ ScriptsOnlyBuild:
     - UnityEngine.UI.GraphicRaycaster
     - UnityEngine.UI.HorizontalLayoutGroup
     - UnityEngine.UI.Image
-    - UnityEngine.UI.InputField
     - UnityEngine.UI.Mask
     - UnityEngine.UI.ScrollRect
     - UnityEngine.UI.Scrollbar
@@ -72,8 +71,6 @@ ScriptsOnlyBuild:
       Script: {instanceID: 12438}
     - Class: 114
       Script: {instanceID: 12598}
-    - Class: 114
-      Script: {instanceID: 13042}
     - Class: 114
       Script: {instanceID: 13070}
     - Class: 114
@@ -305,7 +302,7 @@ ScriptsOnlyBuild:
     className: Selectable
   - hash:
       serializedVersion: 2
-      Hash: bcf4e1f491255ddf54ce162043ef9c5e
+      Hash: e90221650cc75826df16f303fe8bb118
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: MainScript
@@ -534,4 +531,4 @@ ScriptsOnlyBuild:
   platform: 13
   scenePathNames:
   - Assets/Scenes/SampleScene.unity
-  playerPath: C:/Users/Tim/Documents/Projects/Wilsons/Proto_01.apk
+  playerPath: C:/Users/Tim/Documents/Projects/Wilsons/Proto_05.apk
